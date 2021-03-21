@@ -1,0 +1,6 @@
+URL|https://www.google.com|Google
+TEXTBOX|q
+SLEEP|10
+URL|
+LINK|About
+
